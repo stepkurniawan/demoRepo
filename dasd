@@ -1,0 +1,30 @@
+[33mcommit 356175548d5ddcfa11cf0de8514357737854fe8e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: stephen kurniawan <stepkurniawan@gmail.com>
+Date:   Wed Sep 11 11:06:11 2019 +0200
+
+    adding test.md file inside the artifact folder
+
+[33mcommit ab7fe7e513068649645b983c6f8453d3ecaf8d88[m
+Merge: 2809eca 68fa866
+Author: stephen kurniawan <stepkurniawan@gmail.com>
+Date:   Wed Sep 11 11:02:54 2019 +0200
+
+    Merge branch 'master' of https://github.com/stepkurniawan/demoRepo
+
+[33mcommit 68fa8664d68ec740b9c120d905c16a84f21a06a8[m
+Author: stepkurniawan <stepkurniawan@gmail.com>
+Date:   Wed Sep 11 10:55:14 2019 +0200
+
+    Delete README.md
+
+[33mcommit 2809eca30dd0080789520a73fb5a3ab28e8280a2[m
+Author: stephen kurniawan <stepkurniawan@gmail.com>
+Date:   Wed Sep 11 10:50:39 2019 +0200
+
+    this is my first commit
+
+[33mcommit a51ab33c5e6bd176d88ec7622c04080447bacf6b[m
+Author: stepkurniawan <stepkurniawan@gmail.com>
+Date:   Wed Sep 11 10:28:32 2019 +0200
+
+    Initial commit
